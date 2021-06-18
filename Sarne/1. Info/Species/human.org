@@ -1,0 +1,132 @@
+* Species: Humans
+** Subspecies:
+* Description
+** Height/Length: 130cm - 220cm
+*** Demorphism?:
+** Weight: 31kg - 121kg
+*** Demorphism?:
+** Anatomy:
+*** Head
+- Shape: Tall ball, slightly pointy low end.
+- Size:
+- Nose:
+- Eyes:
+- Ears:
+- mouth:
+- Other features:
+*** Neck
+- Size:
+- Shape:
+- Other features:
+*** Torso/abdomen
+- Size:
+- Shape: Inverse tall trapeze
+- Build:
+- Other features:
+*** Arms/legs
+- Size:
+- Shape:
+- Digits:
+- Claws:
+- Other features:
+*** Wings: no
+- Size:
+- Shape:
+- Other features:
+*** Tail: no
+- Size:
+- Shape:
+- Other features:
+*** Flesh
+- Type: Muscular
+- Coloration: Red
+- Colors:
+  + Colors:
+  + Demorphism:
+** Genetals
+- Male: Penis
+- Female: Vagina
+** Internal
+- Dentition:
+- Saliva:
+- Digestive:
+- Lungs:
+- Circulatory:
+- Nervous:
+- Skeletal:
+- Special:
+* Behavior
+** Abilities
+- Intelligence: 10
+- Basic:
+- Special:
+** Communication
+- Body language:
+- Vocalizations:
+** Social
+- Organization:
+- Hierarchy:
+** Territorial behaviors
+- Territory size:
+- Territory markers:
+- Territory Defense:
+** Denning and sheltering
+- Type: Hand made houses
+- Size: Small To Huge
+- location: Anywhere
+** Activity:
+** Other:
+* Diet
+** Hunting: Anything
+** Feeding: Anything
+** Food items
+- Common: Meat, Fruits, Vegetables
+- Uncommon:
+* Breeding
+** Season:
+** Mating habits:
+** reproduction
+*** Ovuliparity (lays eggs that are externally fertilized):
+- eggs:
+- Incubation:
+- Hatching:
+- Growth:
+- Maturity:
+*** Oviparity (lays eggs that are internally fertilized):
+- eggs:
+- Incubation:
+- Hatching:
+- Growth:
+- Maturity:
+*** Ovo-Viviparity (Eggs produced & retained young get nutrients from yolk til they hatch & born live):
+- Gestation:
+- Birth:
+- Growth:
+*** Histotrophic viviparity (Live birthing, but young get nutrients through intrauterine cannibalism):
+- Gestation:
+- Birth:
+- Growth:
+- Maturity:
+*** Hemotrophic viviparity (Live Birthing):
+- Gestation:
+- Birth:
+- Growth:
+- Maturity:
+*** Other:
+- Gestation:
+- Birth:
+- Growth:
+- Maturity:
+*** LifeSpan:
+* History
+** Evolution
+
+** Enemies and competitors
+
+** Allies
+
+** Domestication
+
+* Habitat
+** Home World:
+** Home range:
